@@ -1,0 +1,11 @@
+C:\Users\MRCR\source\repos\Desafio02 - Herança\Desafio02 - Herança\obj\Debug\netcoreapp3.1\Desafio02 - Herança.csprojAssemblyReference.cache
+C:\Users\MRCR\source\repos\Desafio02 - Herança\Desafio02 - Herança\obj\Debug\netcoreapp3.1\Desafio02 - Herança.AssemblyInfoInputs.cache
+C:\Users\MRCR\source\repos\Desafio02 - Herança\Desafio02 - Herança\obj\Debug\netcoreapp3.1\Desafio02 - Herança.AssemblyInfo.cs
+C:\Users\MRCR\source\repos\Desafio02 - Herança\Desafio02 - Herança\bin\Debug\netcoreapp3.1\Desafio02 - Herança.exe
+C:\Users\MRCR\source\repos\Desafio02 - Herança\Desafio02 - Herança\bin\Debug\netcoreapp3.1\Desafio02 - Herança.deps.json
+C:\Users\MRCR\source\repos\Desafio02 - Herança\Desafio02 - Herança\bin\Debug\netcoreapp3.1\Desafio02 - Herança.runtimeconfig.json
+C:\Users\MRCR\source\repos\Desafio02 - Herança\Desafio02 - Herança\bin\Debug\netcoreapp3.1\Desafio02 - Herança.runtimeconfig.dev.json
+C:\Users\MRCR\source\repos\Desafio02 - Herança\Desafio02 - Herança\bin\Debug\netcoreapp3.1\Desafio02 - Herança.dll
+C:\Users\MRCR\source\repos\Desafio02 - Herança\Desafio02 - Herança\bin\Debug\netcoreapp3.1\Desafio02 - Herança.pdb
+C:\Users\MRCR\source\repos\Desafio02 - Herança\Desafio02 - Herança\obj\Debug\netcoreapp3.1\Desafio02 - Herança.dll
+C:\Users\MRCR\source\repos\Desafio02 - Herança\Desafio02 - Herança\obj\Debug\netcoreapp3.1\Desafio02 - Herança.pdb
